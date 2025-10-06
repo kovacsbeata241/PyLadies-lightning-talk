@@ -1,4 +1,4 @@
-#**PyLadies Lightning Talk**# - 12th December, 2024
+**PyLadies Lightning Talk** - 12th December, 2024
 
 Datavisualisation as we know it is typically 2 dimensional - e.g. charts. In **Dataphisicalisation** the outcome is 3 dimensionsonal!
 
