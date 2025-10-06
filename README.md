@@ -13,3 +13,5 @@ I followed the following steps:
 3. Did an estamation of how many balls of yarn to buy in each colour, and how heavy the poncho will be
 
 4. Produced a coloured pattern for knitting.
+
+![alt text](előadáskép-2.jpg)
